@@ -1,1 +1,1 @@
-https://danaldi.github.io/virtual_drum/
+https://danaldi.github.io/Virtual-Drum/
